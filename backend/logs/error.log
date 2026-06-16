@@ -1,0 +1,8 @@
+[2026-06-16 06:54:03] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2026-06-16 06:54:03] Database connection failed.
+[2026-06-16 06:54:03] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2026-06-16 06:54:03] Database connection failed.
+[2026-06-16 06:54:54] Typed property ShelfController::$shelf must not be accessed before initialization
+[2026-06-16 06:54:54] Typed property ShelfController::$shelf must not be accessed before initialization
+[2026-06-16 06:58:17] Book::availability(): Argument #1 ($id) must be of type int, null given, called in C:\wamp64\www\library_management\back_end\app\controllers\BorrowController.php on line 109
+[2026-06-16 06:58:23] Book::availability(): Argument #1 ($id) must be of type int, null given, called in C:\wamp64\www\library_management\back_end\app\controllers\BorrowController.php on line 109
